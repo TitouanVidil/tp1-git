@@ -3,5 +3,5 @@ int main()
 {
     printf("Hello Sudria hotfix");
     int res = move_forward() ;
-    return 0;
+    return 1;
 }
