@@ -2,6 +2,6 @@
 int main()
 {
     printf("Hello Sudria hotfix");
-    int res = move_forward() ;
+    int r = move_forward() ;
     return 0;
 }
